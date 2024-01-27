@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolaPingPong", "ConsolaPingPong\ConsolaPingPong.csproj", "{2FA21DE5-2106-4CA6-B780-F3B7C5D3DF85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinPong.Core", "PinPong.Core\PinPong.Core.csproj", "{9E54F447-CDF5-4EA3-9B75-D816B4A718FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FA21DE5-2106-4CA6-B780-F3B7C5D3DF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA21DE5-2106-4CA6-B780-F3B7C5D3DF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA21DE5-2106-4CA6-B780-F3B7C5D3DF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA21DE5-2106-4CA6-B780-F3B7C5D3DF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E54F447-CDF5-4EA3-9B75-D816B4A718FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E54F447-CDF5-4EA3-9B75-D816B4A718FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E54F447-CDF5-4EA3-9B75-D816B4A718FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E54F447-CDF5-4EA3-9B75-D816B4A718FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C86AA071-2262-43FA-9174-C6023EB02343}
+	EndGlobalSection
+EndGlobal
