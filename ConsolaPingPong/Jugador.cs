@@ -19,8 +19,8 @@ namespace ConsolaPingPong
 
         public Jugador()
         {
-            MoveDown = new GameCommand(Down, CanMove);
-            MoveUp = new GameCommand(Up, CanMove);
+            //MoveDown = new GameCommand(Down, CanMove);
+            //MoveUp = new GameCommand(Up, CanMove);
         }
 
         private bool CanMove(object down)
